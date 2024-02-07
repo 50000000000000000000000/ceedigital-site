@@ -1,0 +1,7 @@
+div > a {
+     text-decoration: none;
+}
+
+.text-foot , li > a {
+    text-decoration: none;
+}
