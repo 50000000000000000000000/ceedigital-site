@@ -1,7 +1,19 @@
 div > a {
-     text-decoration: none;
+  text-decoration: none;
 }
 
-.text-foot , li > a {
-    text-decoration: none;
+.text-foot,
+li > a {
+  text-decoration: none;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+#email-a,
+#address-u, #call {
+  /* border: 2px solid gold; */
+  height: 20%;
+  width: 20%;
 }
